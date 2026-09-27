@@ -35,4 +35,4 @@ Software Engineering Student based in Istanbul, Türkiye
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rosha-vafaee-13bb12342
 - 💻 LeetCode: https://leetcode.com/u/roshavafaei/
-- 📧 Email: roshavafaei@gmail.com
+- 📧 Email: roshaavafaeii@gmail.com
